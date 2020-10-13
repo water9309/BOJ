@@ -1,3 +1,6 @@
+'''
+수를 거꾸로 바라본 후 대 소 비교
+'''
 N = list(map(int, input().split()))
 data = [0]*2
 for i in range(len(N)):
